@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd_numbers {
+    background-color: rgb(241, 153, 156);
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.odd_numbers.thirdnumber {
+    font-size: 24px;
+}
+
+#secondnumber{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#fourthnumber {
+    background-color: hsl(129, 85%, 72%);
+    font-size: 24px;
+    font-weight: bold;
+}
